@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anuncio do Sencha Ext Versão da Comunidade"
+title:  "Anuncio tetetstest do Sencha Ext Versão da Comunidade"
 date:   2018-11-07 10:05:20 -0200
 image: '/assets/img/'
 description: 'Novidade Ext JS'
