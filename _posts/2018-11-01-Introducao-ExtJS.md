@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ext JS, o que é? Aonde aprender?"
+title:  "Ext JS, o que é? Aonde aprender???"
 date:   2018-11-01 17:05:20 -0200
 image: '/assets/img/'
 description: 'Introdução ao Ext JS'
